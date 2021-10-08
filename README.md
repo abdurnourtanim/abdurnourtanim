@@ -1,5 +1,4 @@
-![I'm Abdur Nour Tanim](https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/167445856_496412298390657_6482141898638355501_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEESAnU5J1jt0qqxyduNiIAVDgjo0rmu2VUOCOjSua7Za73vewuhh-Bv0RrKp9VPEOA8vLhT3H_1NFG-ckKMmXZ&_nc_ohc=6rerVjUI_awAX_UheOx&_nc_ht=scontent.fcgp1-1.fna&oh=641d7afceb129f7114457bd89dcaae06&oe=6186D245)
-
+![I'm Abdur Nour Tanim](https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/s417x417/75478435_154605135904710_2552229335771643904_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeG8zq-lUR4JcGuxlU-RuFjUgs22vkXgeUqCzba-ReB5SldjrLKOF4P1ih6-5KlPCEDE4ylXacELSs4FytcBSKer&_nc_ohc=1_lj3tYOzHUAX-cgHfE&_nc_ht=scontent.fcgp1-1.fna&oh=cedf29228afd85da31cdf803f0d4b5cb&oe=61872B1E)
 ## Hi, Welcome My Profile
 
 #### I'm Abdur Nour Tanim
@@ -59,3 +58,19 @@ I'm a Full Stack Web/App Developer from Bangladesh.
 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antanim)
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=antanim)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antanim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antanim&show_icons=true)
+
+![GitHub metrics](https://metrics.lecoq.io/antanim)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antanim)
+
+![Profile views](https://gpvc.arturio.dev/antanim)
