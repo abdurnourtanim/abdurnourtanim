@@ -1,6 +1,6 @@
 
 
-![I'm Abdur Nour Tanim](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/255137773_123421873446338_5859795189977821361_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeG-L4gWuksL0-8puPxlENsk5kiyx4XV8g_mSLLHhdXyD-BESdVbSX11yKuB9eMTSfHfiucZJleItINtnMlvTxIB&_nc_ohc=RNarVq4qcfIAX9O8C_R&_nc_ht=scontent.fcgp27-1.fna&oh=9cf6bad417e64d16eed955ccbc180646&oe=61AD9E0A)
+![I'm Abdur Nour Tanim](https://thewebtier-bucket.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/01/12093906/nodejs-twt.png)
 ## Hi, Welcome My Profile
 
 #### I'm Abdur Nour Tanim
