@@ -1,6 +1,6 @@
 
 
-![I'm Abdur Nour Tanim](https://thewebtier-bucket.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/01/12093906/nodejs-twt.png)
+![I'm Abdur Nour Tanim](https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/03/nodejs-reference-architecture_1x.png?itok=MqGeWTLm)
 ## Hi, Welcome My Profile
 
 #### I'm Abdur Nour Tanim
