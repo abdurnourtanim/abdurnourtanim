@@ -1,6 +1,6 @@
 
 
-![I'm Abdur Nour Tanim](https://usaupload.com/6i2D/final-cover-page.jpg)
+![I'm Abdur Nour Tanim](https://cloud1.usaupload.com/cache/plugins/filepreviewer/499323/7ee03d6294082df6e49e3537c2d2c3c513a635a70f63c19c0f343d038c484cbc/1100x800_cropped.jpg)
 ## Hi, Welcome My Profile
 
 #### I'm Abdur Nour Tanim
