@@ -1,6 +1,6 @@
 
 
-![I'm Abdur Nour Tanim](https://media.licdn.com/dms/image/C5616AQFyzzuaG4FzDQ/profile-displaybackgroundimage-shrink_350_1400/0/1649009724066?e=1684972800&v=beta&t=d51wbLrDAOt4QjjG6VXmzzf00z01LDuP01I0A98K7hQ)
+![I'm Abdur Nour Tanim](https://pbs.twimg.com/profile_banners/1320418549853159424/1649187421/600x200)
 ## Hi, Welcome My Profile
 
 #### I'm Abdur Nour Tanim
