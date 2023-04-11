@@ -21,7 +21,7 @@ My key skills include HTML, CSS, JavaScript, PHP, MySQL and Node.js etc. I am al
 <a href="https://discord.gg/3658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3658" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdurnourtanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurnourtanim" height="30" width="40" /></a>
 <a href="https://codepen.io/abdurnourtanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdurnourtanim" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abdur-nur-tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdur-nur-tanim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15267336/abdur-nour-tanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdur-nur-tanim" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abdurnourtanim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="abdurnourtanim" height="30" width="40" /></a>
 
 </p>
